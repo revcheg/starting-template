@@ -1,0 +1,14 @@
+body {
+  min-width: 2320px;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+@media screen and ($tablet-widths) {}
+
+@media screen and ($mobile-widths) {}
